@@ -1,2 +1,12 @@
-# zn-m2-4.4-CI
-zn-m2 4.4.60内核固件自动构建
+# 兆能ZN-M2 openwrt 无wifi 无USB 弱电箱专用
+自用款固件 弱电箱专用  精简版本 内核版本 4.4.60
+
+不包含自己用不上的wifi和USB支持 
+
+感谢大佬 sdf8057 的源码贡献 和openwrt-fork的脚本支持
+
+控制台地址`10.0.0.1` 默认密码`password`
+
+uboot刷机用`openwrt-ipq60xx-generic-zn_m2-squashfs-nand-factory.ubi`
+
+openwrt系统升级用`openwrt-ipq60xx-generic-zn_m2-squashfs-nand-sysupgrade.bin`
